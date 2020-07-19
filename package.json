@@ -1,0 +1,13 @@
+{
+  "name": "RodsREPLgame",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rodpoma/RodsREPLgame.git",
+  "author": "Rodrigo Poma <rodpoma@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.4",
+    "readline-sync": "^1.4.10"
+  }
+}
